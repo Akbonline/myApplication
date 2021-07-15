@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/x86_64'
+[1/4] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[2/4] Building CXX object /Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/hello_world.dir/hello_world.cpp.o
+[3/4] Linking CXX shared library /Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libhello_world.so
+[4/4] Linking CXX shared library /Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so

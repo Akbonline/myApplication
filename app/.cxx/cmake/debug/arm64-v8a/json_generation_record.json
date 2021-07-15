@@ -1,0 +1,114 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: arm64-v8a",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json due to:",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a/build_command.txt, will remove stale json folder",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a\u0027",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a\u0027",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp\n-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions -std\u003dc++11\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003d/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_STL\u003dgnustl_static\n-DANDROID_CPP_FEATURES\u003dexceptions rtti\n-DLOCAL_ALLOW_UNDEFINED_SYMBOLS\u003dtrue\n-B/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp\",\n  \"buildDirectory\": \"/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-frtti -fexceptions -std\\u003dc++11\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\",\n    \"-DANDROID_TOOLCHAIN\\u003dclang\",\n    \"-DANDROID_STL\\u003dgnustl_static\",\n    \"-DANDROID_CPP_FEATURES\\u003dexceptions rtti\",\n    \"-DLOCAL_ALLOW_UNDEFINED_SYMBOLS\\u003dtrue\"\n  ]\n}\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Error at /Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake:250 (message):\\n  gnustl_static is no longer supported.  Please switch to either c++_shared\\n  or c++_static.  See\\n  https://developer.android.com/ndk/guides/cpp-support.html for more\\n  information.\\nCall Stack (most recent call first):\\n  /Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt:10 (project)\\n\\n\",\"title\":\"Error\",\"type\":\"message\"}\n",
+    "file": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "tag": "debug|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

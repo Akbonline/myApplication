@@ -1,0 +1,1 @@
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/x86

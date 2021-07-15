@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeLists.txt",
+    "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/hello_world/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello_world-Debug-x86": {
+      "artifactName": "hello_world",
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/x86",
+        "hello_world"
+      ],
+      "abi": "x86",
+      "output": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/x86/libhello_world.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/x86",
+        "native-lib"
+      ],
+      "abi": "x86",
+      "output": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
+      "runtimeFiles": [
+        "/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/x86/libhello_world.so"
+      ]
+    }
+  }
+}

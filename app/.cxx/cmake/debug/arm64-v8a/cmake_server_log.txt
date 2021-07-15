@@ -1,0 +1,80 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp",
+  "buildDirectory": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/arm64-v8a",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_CXX_FLAGS\u003d-frtti -fexceptions -std\u003dc++11",
+    "-DCMAKE_FIND_ROOT_PATH\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529",
+    "-DANDROID_PLATFORM\u003dandroid-16",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/akshatbajpai/Desktop/Work/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d16",
+    "-DANDROID_TOOLCHAIN\u003dclang",
+    "-DANDROID_STL\u003dgnustl_static",
+    "-DANDROID_CPP_FEATURES\u003dexceptions rtti",
+    "-DLOCAL_ALLOW_UNDEFINED_SYMBOLS\u003dtrue"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"CMake Error at /Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake:250 (message):\n  gnustl_static is no longer supported.  Please switch to either c++_shared\n  or c++_static.  See\n  https://developer.android.com/ndk/guides/cpp-support.html for more\n  information.\nCall Stack (most recent call first):\n  /Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt:10 (project)\n\n","title":"Error","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: CMake Error at /Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake:250 (message):
+  gnustl_static is no longer supported.  Please switch to either c++_shared
+  or c++_static.  See
+  https://developer.android.com/ndk/guides/cpp-support.html for more
+  information.
+Call Stack (most recent call first):
+  /Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)
+  CMakeLists.txt:10 (project)
+
