@@ -1,0 +1,13 @@
+# Target labels
+ nfir
+# Source files and their labels
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/CMakeFiles/nfir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/CMakeFiles/nfir.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/CMakeFiles/nfir-complete.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-install.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-mkdir.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-download.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-update.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-patch.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-configure.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfir-prefix/src/nfir-stamp/nfir-build.rule

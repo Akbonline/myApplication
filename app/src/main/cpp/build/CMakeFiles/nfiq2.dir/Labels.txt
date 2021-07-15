@@ -1,0 +1,13 @@
+# Target labels
+ nfiq2
+# Source files and their labels
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/CMakeFiles/nfiq2
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/CMakeFiles/nfiq2.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/CMakeFiles/nfiq2-complete.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-install.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-mkdir.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-download.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-update.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-patch.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-configure.rule
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/build/nfiq2-prefix/src/nfiq2-stamp/nfiq2-build.rule

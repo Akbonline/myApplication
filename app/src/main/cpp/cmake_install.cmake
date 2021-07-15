@@ -1,4 +1,4 @@
-# Install script for directory: /Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/hello_world
+# Install script for directory: /Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/hello_world
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
