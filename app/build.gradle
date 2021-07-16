@@ -16,17 +16,16 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
             cmake {
-                cppFlags ''
-//                cppFlags 	"-frtti -fexceptions -std=c++11"
-//                arguments 	'-DANDROID_TOOLCHAIN=clang',
-//                        '-DANDROID_STL=gnustl_static',
-//                        '-DANDROID_CPP_FEATURES=exceptions rtti',
-//                        '-DLOCAL_ALLOW_UNDEFINED_SYMBOLS = true'
-//                abiFilters  "arm64-v8a" //,  "arm64-v8a", "x86", "x86_64"
+//                cppFlags ''
+                cppFlags 	"-frtti -fexceptions -std=c++11"
+                arguments 	'-DANDROID_TOOLCHAIN=clang',
+                        '-DANDROID_STL=c++_shared',               // Changed from gnustl_static since it's no longer supported
+                        '-DANDROID_CPP_FEATURES=exceptions rtti',
+                        '-DLOCAL_ALLOW_UNDEFINED_SYMBOLS = true'
+                abiFilters  "armeabi-v7a" //,  Also works with "arm64-v8a", "x86", "x86_64"
             }
         }
     }
-
     buildTypes {
         release {
             minifyEnabled false

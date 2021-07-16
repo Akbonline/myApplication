@@ -1,0 +1,122 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/CMakeLists.txt",
+    "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/NFIQ_2/CMakeLists.txt",
+    "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/NFIQ_2/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "OpenCV-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "OpenCV"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "OpenCV"
+    },
+    "libbiomeval-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "libbiomeval"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "libbiomeval"
+    },
+    "FRFXLL-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "FRFXLL"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "FRFXLL",
+      "output": "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libFRFXLL.so",
+      "runtimeFiles": []
+    },
+    "nfiq2api-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "nfiq2api"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "nfiq2api"
+    },
+    "nfiq2-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "nfiq2"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "nfiq2"
+    },
+    "FRFXLL_static-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "FRFXLL_static"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "FRFXLL_static",
+      "output": "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/libFRFXLL_static.a"
+    },
+    "nfir-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "nfir"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "nfir"
+    },
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a",
+        "native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "output": "/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

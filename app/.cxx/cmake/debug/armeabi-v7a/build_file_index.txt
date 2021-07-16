@@ -1,0 +1,3 @@
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/CMakeLists.txt
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/NFIQ_2/CMakeLists.txt
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp/NFIQ_2/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeLists.txt

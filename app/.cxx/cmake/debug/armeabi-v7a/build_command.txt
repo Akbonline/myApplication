@@ -1,0 +1,29 @@
+                    Executable : /Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/akshatbajpai/Desktop/Work/myApplication copy/app/src/main/cpp
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions -std=c++11
+-DCMAKE_FIND_ROOT_PATH=/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529
+-DANDROID_PLATFORM=android-16
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_shared
+-DANDROID_CPP_FEATURES=exceptions rtti
+-DLOCAL_ALLOW_UNDEFINED_SYMBOLS=true
+-B/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 1

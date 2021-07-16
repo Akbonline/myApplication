@@ -1,0 +1,32 @@
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/install/local.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/list_install_components.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/package_source.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/package.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/install/strip.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/install.dir
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/install/local.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/install.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/nfiq2.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/nfiq2api.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/list_install_components.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/rebuild_cache.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/package_source.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/install/strip.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/package.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/libbiomeval.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/edit_cache.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/nfir.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/OpenCV.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/install/strip.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/install.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/list_install_components.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/edit_cache.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/rebuild_cache.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/package_source.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/package.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/install/local.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir
+/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL_static.dir

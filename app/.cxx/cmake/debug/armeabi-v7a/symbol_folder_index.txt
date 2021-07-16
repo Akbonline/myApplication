@@ -1,0 +1,1 @@
+/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a

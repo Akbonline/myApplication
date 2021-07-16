@@ -1,0 +1,18 @@
+# ninja log v5
+2	503	1626447790	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLCreateLibraryContext.cpp.o	eea4f39b1facf808
+504	1091	1626447790	CMakeFiles/native-lib.dir/native-lib.cpp.o	fc9eae1fc6433dc0
+6	1092	1626447790	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLGetLibraryVersion.cpp.o	b8e6f988aa681273
+0	1167	1626447791	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLCreateContext.cpp.o	ab92e66d5956a8fd
+3	1178	1626447791	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLDuplicateHandle.cpp.o	f8b1ec31efe5df0b
+1091	1220	1626447791	/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8dbf11be15a9a961
+7	1253	1626447791	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLGetMinutiae.cpp.o	619cffa884035d2
+5	1499	1626447791	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLExport.cpp.o	9c31dcb604cd5164
+2	2741	1626447792	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLCreateFeatureSetInPlaceFromRaw.cpp.o	ffa16cd94992572e
+0	2851	1626447792	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLCreateFeatureSetFromRaw.cpp.o	ef5a9eceafdaeda8
+0	2882	1626447792	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLCreateFeatureSet.cpp.o	b9860ac96efdc0d
+1	2924	1626447792	/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/fingerjetfxose/FingerJetFXOSE/libFRFXLL/src/CMakeFiles/FRFXLL.dir/lib/FRFXLLCreateFeatureSetInPlace.cpp.o	7d39aede90d9fd9c
+2924	2992	1626447792	/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libFRFXLL.so	eb075a9ea78521a0
+2	806	1626452935	CMakeFiles/native-lib.dir/native-lib.cpp.o	fc9eae1fc6433dc0
+807	873	1626452935	/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8dbf11be15a9a961
+2	927	1626453045	CMakeFiles/native-lib.dir/native-lib.cpp.o	fc9eae1fc6433dc0
+927	991	1626453045	/Users/akshatbajpai/Desktop/Work/myApplication copy/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8dbf11be15a9a961
