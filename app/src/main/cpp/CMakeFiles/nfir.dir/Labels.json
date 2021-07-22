@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/nfir"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/nfir.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/nfir-complete.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-install.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-mkdir.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-download.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-update.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-patch.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-configure.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/nfir-prefix/src/nfir-stamp/nfir-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nfir"
+		],
+		"name" : "nfir"
+	}
+}

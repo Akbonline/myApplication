@@ -19,14 +19,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c8efcb8-8052-4b56-b061-86e05832670c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_algorithm.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_algorithm.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_constants.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_constants.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_data.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_data.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_fingerprintimagedata.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_fingerprintimagedata.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_qualityfeatures.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/NFIQ_2/NFIQ2/NFIQ2Algorithm/include/nfiq2_qualityfeatures.hpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vMNfgKkgGpzLpjGlgCqdxIJQGf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

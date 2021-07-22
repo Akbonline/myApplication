@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/OpenCV"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/OpenCV.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/CMakeFiles/OpenCV-complete.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-install.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-mkdir.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-download.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-update.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-patch.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-configure.rule"
+		},
+		{
+			"file" : "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/OpenCV-prefix/src/OpenCV-stamp/OpenCV-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"OpenCV"
+		],
+		"name" : "OpenCV"
+	}
+}

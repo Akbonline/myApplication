@@ -9,7 +9,6 @@ cmake_minimum_required(VERSION 3.10.2)
 
 project("myapplication")
 
-#include_directories("./hello_world/")
 include_directories("./NFIQ_2/")
 include_directories("./NFIQ_2/NFIQ2/NFIQ2Algorithm/")
 #include_directories("./NFIQ_2/NFIR/")
@@ -19,7 +18,7 @@ include_directories("./NFIQ_2/NFIQ2/NFIQ2Algorithm/")
 #include_directories("./NFIQ_2/digestpp")
 #include_directories("./NFIQ_2/conformance")
 #add_subdirectory("./hello_world" "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/")
-add_subdirectory("./NFIQ_2" "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/")	# We provide the absolute path
+add_subdirectory("./NFIQ_2" "/Users/akshatbajpai/Desktop/Work/MyApplication/app/src/main/cpp/") # We provide the absolute path
 
 # -----------------------Updated Changes--------------------------
 
@@ -37,17 +36,17 @@ add_subdirectory("./NFIQ_2" "/Users/akshatbajpai/Desktop/Work/MyApplication/app/
 #		include)
 
 include_directories(
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/"
-		"./NFIQ_2/opencv/"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/features/"
-		"./NFIQ_2/opencv/modules/ml/"
-		"./NFIQ_2/opencv/modules/features2d/"
-		"./NFIQ_2/opencv/modules/imageproc/"
-		"./NFIQ_2/opencv/modules/core/"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/include/features/"
-		"./NFI_2/libbiomeval/nbis/lib/wsq/"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/prediction/"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/include/prediction"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/"
+        "./NFIQ_2/opencv/"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/features/"
+        "./NFIQ_2/opencv/modules/ml/"
+        "./NFIQ_2/opencv/modules/features2d/"
+        "./NFIQ_2/opencv/modules/imageproc/"
+        "./NFIQ_2/opencv/modules/core/"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/include/features/"
+        "./NFI_2/libbiomeval/nbis/lib/wsq/"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/prediction/"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/include/prediction"
 )
 
 #file(GLOB_RECURSE SOURCES
@@ -62,22 +61,22 @@ include_directories(
 #		"src/wsq/*.cpp"
 #		"src/*.cpp"
 #		"src/*.c")
-file(   GLOB_RECURSE SOURCES
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/features/*.cpp"
-		"./NFIQ_2/opencv/modules/core/*.cpp"
-		"./NFIQ_2/opencv/modules/core/*.hpp"
-		"./NFIQ_2/opencv/modules/imageproc/*.cpp"
-		"./NFIQ_2/opencv/modules/imageproc/*.h"
-		"./NFIQ_2/opencv/modules/ml/*.cpp"
-		"./NFIQ_2/opencv/modules/ml/*.hpp"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/prediction/*.cpp"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/include/prediction/*.cpp"
-		"./NFIQ_2/libbiomeval/nbis/lib/wsq/*.cpp"
-		"./NFIQ_2/NFIQ2/NFIQ2Algorithm/*.cpp"
-		"./NFIQ_2/NFIQ2/NFIQ2Api/*.cpp"
-#		"./*.cpp"
-#		"./*.c"
-		)
+file(GLOB_RECURSE SOURCES
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/features/*.cpp"
+        "./NFIQ_2/opencv/modules/core/*.cpp"
+        "./NFIQ_2/opencv/modules/core/*.hpp"
+        "./NFIQ_2/opencv/modules/imageproc/*.cpp"
+        "./NFIQ_2/opencv/modules/imageproc/*.h"
+        "./NFIQ_2/opencv/modules/ml/*.cpp"
+        "./NFIQ_2/opencv/modules/ml/*.hpp"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/src/prediction/*.cpp"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/include/prediction/*.cpp"
+        "./NFIQ_2/libbiomeval/nbis/lib/wsq/*.cpp"
+        "./NFIQ_2/NFIQ2/NFIQ2Algorithm/*.cpp"
+        "./NFIQ_2/NFIQ2/NFIQ2Api/*.cpp"
+        #		"./*.cpp"
+        #		"./*.c"
+        )
 #---------------------------------^^^^----------------------------
 
 # Creates and names a library, sets it as either STATIC
@@ -86,14 +85,15 @@ file(   GLOB_RECURSE SOURCES
 # Gradle automatically packages shared libraries with your APK.
 
 add_library( # Sets the name of the library.
-             native-lib
+        native-lib
 
-             # Sets the library as a shared library.
-             SHARED
+        # Sets the library as a shared library.
+        SHARED
 
-             # Provides a relative path to your source file(s).
-             native-lib.cpp
-		)
+        # Provides a relative path to your source file(s).
+        native-lib.cpp
+        ${SOURCES}
+        )
 
 # Searches for a specified prebuilt library and stores the path as a
 # variable. Because CMake includes system libraries in the search path by
@@ -102,18 +102,18 @@ add_library( # Sets the name of the library.
 # completing its build.
 
 find_library( # Sets the name of the path variable.
-              log-lib
+        log-lib
 
-              # Specifies the name of the NDK library that
-              # you want CMake to locate.
-              log)
+        # Specifies the name of the NDK library that
+        # you want CMake to locate.
+        log)
 
 find_library( # Sets the name of the path variable.
-			android-lib
+        android-lib
 
-			# Specifies the name of the NDK library that
-			# you want CMake to locate.
-			android)
+        # Specifies the name of the NDK library that
+        # you want CMake to locate.
+        android)
 find_package(ZLIB)
 
 # Specifies libraries CMake should link to your target library. You
@@ -121,14 +121,14 @@ find_package(ZLIB)
 # build script, prebuilt third-party libraries, or system libraries.
 
 target_link_libraries( # Specifies the target library.
-                       native-lib
+        native-lib
 
-                       # Links the target library to the log library
-                       # included in the NDK.
-                       ${log-lib}
-#			            hello_world
-						${NFIQ2_SUPERBUILD}
-		                ${ZLIB_LIBRARIES}
-		                ${android-lib}
-		                -ljnigraphics
-			)	# Try NFIQ2_SUPERBUILD if not!
+        # Links the target library to the log library
+        # included in the NDK.
+        ${log-lib}
+        #			            hello_world
+        ${NFIQ2_SUPERBUILD}
+        ${ZLIB_LIBRARIES}
+        ${android-lib}
+        -ljnigraphics
+        ) # Try NFIQ2_SUPERBUILD if not!
